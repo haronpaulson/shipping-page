@@ -1,0 +1,120 @@
+.form {
+    background-color: white;
+    
+}
+.formm {
+    display: flex;
+}
+
+.input {
+    border: 1px solid black;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    font-size: 25px;
+    width: 350px;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    width: 90vw;
+    align-items: center;
+    
+}
+
+
+.header h1 {
+    font-size: 30px;
+    font-weight: 550;
+}
+
+
+
+.row-one {
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.icons {
+    height: 30px;
+    width: 40px;
+    margin-right: 90px;
+}
+
+.buttons {
+    width: 90px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-right: 3px;
+    background-color: aliceblue;
+    color: black;
+    font-weight: 700;
+}
+.button {
+  
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+
+.buttons:hover {
+    background-color: greenyellow;
+}
+
+.submit {
+    position: absolute;
+    top:70%;
+    left:23%;
+}
+
+.lastt {
+    background-color: white;
+    width: 100%;
+    height: 110px;
+    position: absolute;
+    bottom: 17px;
+    z-index: 1;
+  
+
+}
+.back-icon {
+    color: black;
+    
+    height: 30px;
+    width: 40px;
+    padding-top: 29px;
+
+    padding-left: 40px;
+    padding-right: 10px;
+
+}
+
+.lastt {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.back {
+    display: flex;
+}
+
+.final-button {
+    padding-right: 80px;
+}
+
+.buttonss {
+    width: 250px;
+    height: 45px;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 20px;
+
+}
+
+.buttonss:hover {
+    background-color: green;
+}

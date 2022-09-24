@@ -1,0 +1,41 @@
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 80px;
+    align-items: center;
+    background-color: azure;
+    
+}
+
+.head-icon {
+    height: 30px;
+    width: 30px;
+    padding-right: 20px;
+}
+.category-gender {
+    padding-left: 20px;
+    font-size: 30px;
+  
+
+}
+.gender {
+    list-style-type: none;
+    display: flex;
+    margin-right: 200px;
+  
+}
+
+.search-icon {
+    display: flex;
+    padding-right: 20px;
+    margin-right: 20px;
+ 
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    background-color: white;
+    
+}
